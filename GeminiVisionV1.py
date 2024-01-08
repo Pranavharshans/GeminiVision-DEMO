@@ -1,8 +1,8 @@
 import google.generativeai as genai
 from pathlib import Path
 
-# Installation
-#!pip install -q google-generativeai==0.3.1
+# install this package
+#pip install -q google-generativeai==0.3.1
 
 
 import google.generativeai as genai
